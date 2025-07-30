@@ -35,9 +35,7 @@ Clear all finished tasks: Click the "Clear All Completed" button.
 ⚙️ How to Get It Running
 Get the code: Download or clone this project from GitHub. If you're using Git, you can use:
 
-git clone https://github.com/YOUR_USERNAME/enhanced-todo-list.git
-
-(Remember to replace YOUR_USERNAME with your GitHub username and enhanced-todo-list with your repository name.)
+git clone https://github.com/kid-avi/Simple-To-Do-List.git
 
 Go into the folder:
 
